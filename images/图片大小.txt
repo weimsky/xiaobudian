@@ -1,0 +1,6 @@
+1. bg.jpg 1680X2000
+2. overlay.png 512X512
+3. pic01.jpg------pic07.jpg  1008X491
+3. pic02.jpg------pic07.jpg  508X310
+4. pic08.jpg  305X310
+5. pic09.jpg  305X310
